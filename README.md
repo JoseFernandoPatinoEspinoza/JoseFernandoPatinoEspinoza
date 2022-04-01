@@ -14,7 +14,8 @@
 #### DANIELA ADRIANA SANCHEZ VIZCARRA
  
 # Alumno:  
-#### Patiño Espinoza Jose Fernando. 
+#### Patiño Espinoza Jose Fernando 20210950.
+#### Paniagua Armenta Paola 20213032.
  
 # Fecha de entrega:  
 #### 25/Febrero/2022 
