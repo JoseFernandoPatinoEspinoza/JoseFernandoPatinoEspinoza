@@ -1,6 +1,20 @@
 <p align="center"><img src="IMG/LOGOTIPO.png"/></p>
-<p align="center"><h1>TECNOLOGICO NACIONAL DE MÉXICO</h1></p>
-<p align="center"><h2>INSTITUTO TECNÓLOGICO DE TIJUANA</h2></p>
-<p align="center"><h3>SEMESTRE 3</h3></p>
-<p align="center"><h2>INGENÍERIA INFORMÁTICA</h2></p>
-<p align="center"><h3>TALLER DE LEGISLACIÓN INFORMÁTICA</h3></p>
+
+# TECNOLÓGICO NACIONAL DE MÉXICO  
+# INSTITUTO TECNOLÓGICO DE TIJUANA  
+#### SEMESTRE 3 
+#### INGENIERÍA INFORMÁTICA 
+ 
+# Fundamentos de sistemas de Información IF3A 
+##### Unidad 1 
+#### Actividad:  
+#### Clasificación de sistemas de información.
+ 
+# Profesora:  
+# ALMA SOFIA FLORES RIVERA. 
+ 
+# Alumno:  
+# Patiño Espinoza Jose Fernando. 
+ 
+# Fecha de entrega:  
+# 25/Febrero/2022 
