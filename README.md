@@ -5,16 +5,16 @@
 #### SEMESTRE 3 
 #### INGENIERÍA INFORMÁTICA 
  
-# Fundamentos de sistemas de Información IF3A 
+# Taller de legislacion informatica IF5A 
 ##### Unidad 1 
 #### Actividad:  
-#### Clasificación de sistemas de información.
+#### Actividad 1
  
 # Profesora:  
-# ALMA SOFIA FLORES RIVERA. 
+#### DANIELA ADRIANA SANCHEZ VIZCARRA
  
 # Alumno:  
-# Patiño Espinoza Jose Fernando. 
+#### Patiño Espinoza Jose Fernando. 
  
 # Fecha de entrega:  
-# 25/Febrero/2022 
+#### 25/Febrero/2022 
