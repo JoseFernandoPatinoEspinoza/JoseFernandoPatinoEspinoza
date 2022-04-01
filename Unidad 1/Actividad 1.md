@@ -7,6 +7,14 @@
   </tr>
   <tr>
     <td style="width: 50%; ">Normas Juridicas</td>
+    <td style="width: 50%; ">
+Esta norma está
+establecida por una
+autoridad para
+regular la conducta
+en la sociedad.</td>
+    <td style="width: 50%; "> </td>
+    <td style="width: 50%; "> </td>
   </tr>
   <tr>
     <td style="width: 50%; ">Normas Morales</td>
