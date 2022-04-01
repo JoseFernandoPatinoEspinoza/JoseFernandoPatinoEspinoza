@@ -6,9 +6,15 @@
     <td style="width: 50%;">Sanciones</td>
   </tr>
   <tr>
-    <td colspan="3" style="width: 100%; padding-top: 50px;">Más contenido</td>
+    <td colspan="3" style="width: 50%; padding-top: 50px;">Normas Juridicas</td>
   </tr>
   <tr>
-    <td  colspan="3" style="width: 100%; padding-top: 50px;">Pie de página</td>
+    <td  colspan="3" style="width: 100%; padding-top: 50px;">Normas Morales</td>
+  </tr>
+  <tr>
+    <td  colspan="3" style="width: 100%; padding-top: 50px;">Normas Sociales</td>
+  </tr>
+  <tr>
+    <td  colspan="3" style="width: 100%; padding-top: 50px;">Normas Religiosas</td>
   </tr>
 </table>
