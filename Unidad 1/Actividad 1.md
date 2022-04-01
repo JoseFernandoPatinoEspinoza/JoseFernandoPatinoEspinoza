@@ -9,12 +9,12 @@
     <td style="width: 50%; ">Normas Juridicas</td>
   </tr>
   <tr>
-    <td  colspan="3" style="width: 100%; padding-top: 50px;">Normas Morales</td>
+    <td style="width: 50%; ">Normas Morales</td>
   </tr>
   <tr>
-    <td  colspan="3" style="width: 100%; padding-top: 50px;">Normas Sociales</td>
+    <td style="width: 50%; ">Normas Sociales</td>
   </tr>
   <tr>
-    <td  colspan="3" style="width: 100%; padding-top: 50px;">Normas Religiosas</td>
+    <td style="width: 50%; ">Normas Religiosas</td>
   </tr>
 </table>
