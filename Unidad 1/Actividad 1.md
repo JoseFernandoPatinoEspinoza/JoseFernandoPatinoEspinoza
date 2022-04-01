@@ -6,7 +6,7 @@
     <td style="width: 50%;">Sanciones</td>
   </tr>
   <tr>
-    <td colspan="3" style="width: 50%; ">Normas Juridicas</td>
+    <td style="width: 50%; ">Normas Juridicas</td>
   </tr>
   <tr>
     <td  colspan="3" style="width: 100%; padding-top: 50px;">Normas Morales</td>
