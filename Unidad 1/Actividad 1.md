@@ -44,9 +44,62 @@ comunitario.</td>
   </tr>
   <tr>
     <td style="width: 50%; ">Normas Morales</td>
+    <td>Esta norma indica lo
+que debemos hacer
+o no en la relación
+que tengamos con la
+sociedad.</td>
+<td>● Emplear
+respeto cuando
+se trata de los
+demás.
+
+● Ser
+responsable
+con el tiempo
+de los demás.
+
+● Seguir las leyes
+y respetarlas</td>
+<td>- No se pueden
+sancionar, siempre y
+cuando no coincida
+con una norma jurídica
+por ejemplo
+- Robar o bien
+conllevarían una
+desaprobación</td>
   </tr>
   <tr>
     <td style="width: 50%; ">Normas Sociales</td>
+    <td>Las normas sociales
+indican en término
+simple las reglas de
+comportamiento
+determinadas por la
+sociedad, su objetivo
+es el de mantener el
+orden en la sociedad.</td>
+<td>
+● Saludar a los presentes al llegar a un lugar.
+
+● No interrumpir a otros cuando hablan.
+
+● Evitar el lenguaje
+obsceno o procaz.</td>
+<td>
+● El ridículo.
+
+● La suspensión temporal de un
+miembro del grupo.
+
+● La censura.
+
+● Las pecuniarias.
+
+● Los privativos de la libertad.
+
+● La privativa de la vida.</td>
   </tr>
   <tr>
     <td style="width: 50%; ">Normas Religiosas</td>
