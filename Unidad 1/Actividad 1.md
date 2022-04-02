@@ -123,3 +123,4 @@ pecado y da un castigo divino.</td>
 RELIGIOSAS Son prescritas por la comunidad religiosa a la que cada persona pertenece, y la sanción en caso de incumplimiento, es divina. Por ejemplo, si no rezas irás al infierno. Las normas mencionadas no se excluyen, sino más bien en muchos casos, coinciden.</td>
   </tr>
 </table>
+<H3>Referencias</H3>
