@@ -29,8 +29,18 @@ tránsito
 
 ● La extorsión es
 un delito</td>
-    <td style="width: 50%; "> </td>
-    <td style="width: 50%; "> </td>
+<td>Estas sanciones
+involucran a los jueces
+o jurados que castigan
+a un individuo por la
+comisión de un delito;
+las sanciones comunes
+incluyen
+encarcelamiento,
+libertad condicional,
+multas y servicios
+comunitario.</td>
+    
   </tr>
   <tr>
     <td style="width: 50%; ">Normas Morales</td>
