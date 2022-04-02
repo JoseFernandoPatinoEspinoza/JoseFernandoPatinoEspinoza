@@ -61,12 +61,13 @@ de los demás.
 
 ● Seguir las leyes
 y respetarlas</td>
-<td>- No se pueden
+<td>● No se pueden
 sancionar, siempre y
 cuando no coincida
 con una norma jurídica
 por ejemplo
-- Robar o bien
+
+● Robar o bien
 conllevarían una
 desaprobación</td>
   </tr>
@@ -103,5 +104,22 @@ miembro del grupo.
   </tr>
   <tr>
     <td style="width: 50%; ">Normas Religiosas</td>
+    <td>Esta norma se basa
+en las reglas de la
+conducta en las que
+se establece lo que
+está permitido y
+prohibido. Lo
+prohibido se conoce
+como lo que es el
+pecado y da un castigo divino.</td>
+<td>
+● No mentir
+
+● No robar ni matar
+
+● No comer carne roja en determinados días sagrados como símbolo de respeto a jesucristo</td>
+<td>SANCIONES
+RELIGIOSAS Son prescritas por la comunidad religiosa a la que cada persona pertenece, y la sanción en caso de incumplimiento, es divina. Por ejemplo, si no rezas irás al infierno. Las normas mencionadas no se excluyen, sino más bien en muchos casos, coinciden.</td>
   </tr>
 </table>
