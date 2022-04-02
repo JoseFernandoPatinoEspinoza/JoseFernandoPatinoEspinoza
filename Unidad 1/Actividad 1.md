@@ -13,6 +13,18 @@ establecida por una
 autoridad para
 regular la conducta
 en la sociedad.</td>
+<td>● Está prohibido
+fumar en
+espacios
+públicos en
+México
+● Prohibido el
+trabajo infantil
+● Normas y
+señales de
+tránsito
+● La extorsión es
+un delito</td>
     <td style="width: 50%; "> </td>
     <td style="width: 50%; "> </td>
   </tr>
