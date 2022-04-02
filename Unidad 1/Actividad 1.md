@@ -124,3 +124,17 @@ RELIGIOSAS Son prescritas por la comunidad religiosa a la que cada persona perte
   </tr>
 </table>
 <H3>Referencias</H3>
+<H3>Ech, D. (2015, 10 febrero). Cuadro sinóptico componentes computadora. slideshare.
+Recuperado 5 de marzo de 2022, de
+https://es.slideshare.net/mauriciobastarrachea18/cuadro-sinoptico-componentes-
+computadora</H3>
+<H3>Plaza, C. D. A. (2015, 25 junio). Norma jurídica y la sanción. Prezi.Com. Recuperado 7 de
+marzo de 2022, de https://prezi.com/glzdk45-tz68/norma-juridica-y-la-
+sancion/#:%7E:text=Se%20denomina%20sanci%C3%B3n%20a%20la,sanciones%20civiles
+%20y%20sanciones%20administrativas.</H3>
+<H3>Antelo, M. (2017, 4 enero). Normas sociales y sanciones. La Voz de Galicia. Recuperado 7
+de marzo de 2022, de https://www.lavozdegalicia.es/noticia/opinion/2017/01/04/normas-
+sociales-sanciones/0003_201701G4P14994.html</H3>
+<H3>Normas Sociales: qué son, características, tipos y ejemplos. (s. f.). Características. Recuperado 6 de marzo de 2022, de https://www.caracteristicas.co/normas-sociales/</H3>
+<H3>R. (2021, 1 octubre). Normas sociales, morales, jurídicas y religiosas.
+Ejemplos. Recuperado 6 de marzo de 2022, de https://www.ejemplos.co/ejemplos-de-normas-sociales-morales-juridicas-y-religiosas/</H3>
