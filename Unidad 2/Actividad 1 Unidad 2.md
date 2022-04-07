@@ -186,7 +186,9 @@
                     <strong></strong>
                 </p>
                 <p>
-                    i) Infracción con
+                    i) Infracción con reincidencia mayor a las anteriores.
+
+Cancelación del infractor.
                 </p>
             </td>
         </tr>
@@ -203,10 +205,10 @@
             </td>
             <td width="167" valign="top">
                 <p>
-                    reincidencia mayor a las anteriores.
+                    .
                 </p>
                 <p>
-                    Cancelación del infractor.
+                   .
                 </p>
             </td>
         </tr>
