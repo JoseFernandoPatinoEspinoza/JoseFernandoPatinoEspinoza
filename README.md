@@ -6,7 +6,7 @@
 #### INGENIERÍA INFORMÁTICA 
  
 # Taller de legislacion informatica IF5A 
-##### Unidad 1 
+##### Unidad 2 
 #### Actividad:  
 #### Actividad 1
  
@@ -14,6 +14,6 @@
 #### DANIELA ADRIANA SANCHEZ VIZCARRA
  
 # Alumno:  
-#### Patiño Espinoza Jose Fernando 20210950.
+#### Gasca Aguilar Jaaziel ALberto 20212552.
 #### Paniagua Armenta Paola 20213032.
-#### Gasca Aguilar Jaaziel Alberto 20212552.
+#### Patiño Espinoza Jose Fernando 20210950.
