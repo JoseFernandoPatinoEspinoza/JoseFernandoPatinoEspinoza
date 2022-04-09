@@ -1,4 +1,4 @@
-<p align="center"><img src="IMG/LOGOTIPO.png"/></p>
+<p align="center"><img src="https://github.com/JoseFernandoPatinoEspinoza/JoseFernandoPatinoEspinoza/blob/fc40c7d3a9c32ddd386799bef6bd9d730d353af5/IMG/LOGOTIPO.png"/></p>
 <p align="center">
     <strong>Instituto Tecnológico de Tijuana Ingeniería Informática</strong>
 </p>
