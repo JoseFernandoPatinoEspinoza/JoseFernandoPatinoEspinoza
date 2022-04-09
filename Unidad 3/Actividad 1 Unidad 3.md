@@ -71,22 +71,42 @@ Suspender clases en días y horas no autorizados por el calendario escolar aplic
     
   </tr>
   <tr>
-    <td style="width: 50%; ">Informatica Juridica de control y gestión </td>
+    <td style="width: 50%; "> Articulo 6 </td>
     <td>
-La informática jurídica de gestión esta dirigida al control y la administración de textos jurídicos y es muy utilizado por tribunales, despachos, notarias entre otras oficinas de control jurídico. Esta se utiliza para llevar el seguimiento de trámites y procesos para mantener la información y llevar un buen control de la misma.
+Las libertades tradicionales de expresión y de imprenta (En la reforma de 1977 se introduce el derecho a la información).
 </td>
 <td>
-● REGISTRAL: Se ocupa de todos los tipos de registro ya sean públicos o privados, facilitando al usuario datos fehacientes en todos los registros con facilidad y rapidez en el proceso. 
-● OPERACIONA L: Facilita la actualización de datos en las oficinas relacionadas con el derecho tanto a nivel público como privado, en donde la computadora permite llevar toda la actualización repetitiva. 
-● DESICIONAL: Es la utilización de modelos predefinidos para la solución de casos específicos y concretos, como un admisorio de demanda, el rechazo de un recurso procesal extemporáneo, por ello esta parte de la rama de la informática jurídica de gestión es una parte de la actividad administrativa que lleva a acabo todo órgano judicial.
+Las agrupaciones por una causa, ya sea para que representen sus intereses o ideales.
 </td>
 <td>
-● Cuando se trate de transmisiones en vivo y la réplica ya se haya realizado;
-● Cuando no se ejerza en los plazos y términos previstos en esta Ley;
-● Cuando no se limite a la aclaración de los datos o información que aluden a la persona, que sea inexacta o falsa y cuya difusión le ocasione un agravio.
+● Se sancionará con multa de quinientos a cinco mil días de salario mínimo general vigente en el Distrito Federal al sujeto obligado que, sin mediar resolución en sentido negativo, no publique o difunda la réplica solicitada dentro de los plazos establecidos por el artículo 14.
 </td>
   </tr>
   <tr>
+<td style="width: 50%; ">Articulo 7</td>
+<td>
+La libertad de imprenta supone la facultad del individuo de publicar ideas, escritos o imágenes por cualquier medio gráfico.
+</td>
+<td>Difundir, escribir y publicar opiniones, información e ideas o cualquier otro contenido, siempre y cuando no se afecte la estabilidad social, dignidad o vida de terceros.</td>
+<td>
+● Las personas que secuestren una imprenta o cualquier aparato que sirva para la manifestación de las ideas, o lo destruyan o deterioren, sufrirán una pena de dos a seis años de prisión y una multa de mil a diez mil pesos.
+</td>
+  </tr>
+  <tr style="width: 50%; ">Articulo 8
+  <td>Los funcionarios y empleados públicos respetarán el ejercicio del derecho de petición, siempre que ésta se formule por escrito, de manera pacífica y respetuosa; pero en materia política sólo podrán hacer uso de ese derecho los ciudadanos de la República.
+A toda petición deberá recaer un acuerdo escrito de la autoridad a quien se haya dirigido, la cual tiene obligación de hacerlo conocer en breve término al peticionario. 
+</td>
+  <td>Toda persona tiene derecho de presentar peticiones respetuosas a cualquier autoridad competente, ya sea por motivos de interés general, ya sea en interés particular, y el de tener pronta resolución.</td>
+  <td>
+  ● Las multas fijas transgreden lo dispuesto en el artículo 22, primer párrafo, de la Constitución Política de los Estados Unidos Mexicanos, en tanto que la autoridad facultada para imponer se encuentra en imposibilidad de, en cada caso, determinar su monto o cuantía, tomando en cuenta la gravedad de la infracción, la capacidad económica del infractor, la reincidencia, así como cualquier otro elemento del que pueda inferirse la gravedad o levedad del hecho infractor, para así determinar individualizadamente la multa que corresponda (AI 29/2005, 61/2008, 7/2009).</td>
+  </tr>
+  <tr>
+    </tr>
+  <tr style="width: 50%; ">Articulo 30
+  <td></td>
+  <td></td>
+  <td></td>
+  </tr>
     <td style="width: 50%; ">Articulo 124</td>
     <td>
 Las facultades que no están expresamente concedidas por esta Constitución a los funcionarios federales, se entienden reservadas a los Estados o a la Ciudad de México, en los ámbitos de sus respectivas competencias.
