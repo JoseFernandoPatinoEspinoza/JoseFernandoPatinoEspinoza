@@ -103,11 +103,18 @@ A toda petición deberá recaer un acuerdo escrito de la autoridad a quien se ha
   </tr>
   <tr>
     </tr>
-  <tr style="width: 50%; ">Articulo 30
-  <td></td>
-  <td></td>
-  <td></td>
-  </tr>
+<tr>
+  <td style="width: 50%; ">Articulo 30</td>
+  <td>Las publicaciones de carácter religioso no podrán “oponerse a las leyes del país o a sus instituciones, ni agraviar, de cualquier forma, los símbolos patrios”.
+</td>
+  <td>
+  Los ministros de los cultos nunca podrán, en actos religiosos de cualquier tipo, hacer crítica de las leyes fundamentales del país, de las instituciones y partidos políticos de cualquier género, de las autoridades en particular y del gobierno en general. </td>
+  <td>
+● Cuando se trate de transmisiones en vivo y la réplica ya se haya realizado.
+ ● Cuando no se ejerza en los plazos y términos previstos en esta Ley.
+ ● Cuando no se limite a la aclaración de los datos o información que aluden a la persona, que sea inexacta o falsa y cuya difusión le ocasione un agravio.
+</td>
+</tr>
     <td style="width: 50%; ">Articulo 124</td>
     <td>
 Las facultades que no están expresamente concedidas por esta Constitución a los funcionarios federales, se entienden reservadas a los Estados o a la Ciudad de México, en los ámbitos de sus respectivas competencias.
