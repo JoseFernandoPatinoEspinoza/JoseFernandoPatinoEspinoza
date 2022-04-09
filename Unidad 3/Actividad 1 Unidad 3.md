@@ -91,53 +91,20 @@ La informática jurídica de gestión esta dirigida al control y la administraci
 </td>
   </tr>
   <tr>
-    <td style="width: 50%; ">Informática Jurídica Meta documentaria</td>
+    <td style="width: 50%; ">Articulo 124</td>
     <td>
-La Informática Jurídica Meta documental constituye aquella rama de la informática jurídica que tiene un mayor significado de complejidad, por cuanto no se agota en la recopilación de textos documentarios, en la realización de documentos jurídicos, o control de asuntos, sino que es aún más profunda en su aplicación de la informática, extendiéndose al campo decisional, educativo, investigativo, entre otras cosas.
+Las facultades que no están expresamente concedidas por esta Constitución a los funcionarios federales, se entienden reservadas a los Estados o a la Ciudad de México, en los ámbitos de sus respectivas competencias.
 </td>
 <td>
-● Informática Registral: es la que la Administración Pública aplica para el tratamiento electrónico de información catalogada a su cargo. Es una clasificación que se posee características de la modalidad documental y la de gestión, ya que implica el almacenamient o de información, pero también su actualización. 
-● Informática Parlamentaria: se aplica al campo de la organización y funcionamiento de las cámaras parlamentarias, en tareas como información legislativa, diario de debates, bibliografía, hemerografía, control de gestión de proyectos, control de legislación a partir de su relación para determinar derogaciones, publicidad de los actos de gobierno, entre otros. 
-● Informática de Gestión de Estudios Jurídicos: administra la gestión del estudio jurídico, agilizando los procesos. Administra, entre otros aspectos, la agenda de plazos; los casos; la agenda de clientes; la facturación y cobranza; el procesamiento de textos; la consulta de legislación, doctrina y jurisprudencia; y la administración de recursos humanos. 
-● Informática Notarial: con características compartidas con la gestión de estudios jurídicos, pero orientado a la generación de documentos y la interacción con la informática Registral
+De lo anterior se debe destacar que solo la Constitución otorga facultades a los Poderes de la Unión y de ninguna manera, lo puede hacer una Ley.
 </td>
 <td>
-● Por otra parte, en el Código Penal para el Estado de Nuevo León, se equipara al robo y se castiga como tal, en términos del artículo 365, el apoderamiento material de los documentos que contengan datos de computadoras, o el aprovechamiento o utilización de dichos datos.
- ● Por lo que respecta a los delitos por medios electrónicos, se castiga a quien indebidamente aceda a un sistema de tratamiento o de transmisión automatizado de datos; quien indebidamente suprima o modifique datos contenidos o su el funcionamiento del sistema.
-</td>
+● Las facultades que no están expresamente concedidas por esta Constitución a los funcionarios federales, se entienden reservadas a los Estados o a la Ciudad de México, en los ámbitos de sus respectivas competencias.
   </tr>
 </table>
 
             
-# Referencias []
- <p>
-    · Tarquiulc, D. (2015, 2 junio). » INFORMÁTICA JURÍDICA DE GESTIÓN «.
-    diegotarquiulc. Recuperado el 6 de abril de 2022, de
-    <a 
-        href = "https://diegotarquiulc.wordpress.com/2015/05/12/informatica-juridica-de-gestion/" 
-    >
-        https://diegotarquiulc.wordpress.com/2015/05/12/informatica-juridica-de-gestion/
-    </a> 
-</p> 
-<p>
-    · Díaz, L. (2015, 13 mayo). INFORMATICA JURIDICA DE GESTION. lizzidiaz.
-    Recuperado el 6 de abril de 2022, de
-    <a 
-        href = "https://lizzidiaz.wordpress.com/2015/05/12/informatica-juridica-de-gestion/" 
-    >
-        https://lizzidiaz.wordpress.com/2015/05/12/informatica-juridica-de-gestion/
-    </a> 
-</p> 
-<p>
-    · Piña Libien, HR (2007, 11 junio). Los Delitos Informáticos previstos y
-    Sancionados en el Ordenamiento Jurídico Mexicano. orden juridico. recuperado
-    6 de abril de 2022, de
-    <a 
-        href="http://www.ordenjuridico.gob.mx/Congreso/2doCongresoNac/pdf/PinaLibien.pdf" > _ 
-    _
-        http://www.ordenjuridico.gob.mx/Congreso/2doCongresoNac/pdf/PinaLibien.pdf
-    </a> 
-</p> 
+# Referencias
 <p>
     · Quispe Lema, J. (2017, 18 enero). LA INFORMÁTICA JURÍDICA METADOCUMENTAL
     Y METADECISIONAL. DERECHO INFORMÁTICO. Recuperado el 6 de abril de 2022, de
