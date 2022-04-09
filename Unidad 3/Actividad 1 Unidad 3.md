@@ -49,30 +49,24 @@
 # Actividad []
 <table style="width: 100%; text-align: center;">
   <tr>
-    <td style="width: 50%;">Normas</td>
+    <td style="width: 50%;">Leyes</td>
     <td style="width: 50%;">Diferencias escenciales</td>
     <td style="width: 50%;">Ejemplos</td>
     <td style="width: 50%;">Sanciones</td>
   </tr>
   <tr>
-    <td style="width: 50%; ">Informatica Juridica </td>
+    <td style="width: 50%; "> Artículo 3 </td>
     <td style="width: 50%; ">
-La Informática jurídica es una ciencia que forma parte de la Informática, es la especie en el género, y se aplica sobre el Derecho; de manera que, se dé el tratamiento lógico y automático de la información legal. Es una ciencia que estudia la utilización de los recursos informáticos (hardware y software) para la mejora de los procesos, análisis, investigación y gestión, en el ámbito jurídico., y nace cuando las computadoras evolucionan de ser máquinas que sólo facilitan el procesamiento de números a ser máquinas que posibilitan el almacenamiento y manipulación de textos. Esta ciencia dentro del ámbito del derecho tiene por finalidad almacenar, ordenar, procesar y entregar según criterio lógico y científico, todos los datos jurídicos necesarios para documentar o proponer una solución al problema. </td>
+Prohíbe que las publicaciones dedicadas a la educación de la niñez y juventud menoscaben los principios establecidos en el mismo artículo.
+ </td>
 <td>
-1.	En nuestro país existen claros ejemplos como el SPIJ 
-(sistema peruano de informática jurídica) y el caso de las municipalidades y el mismo Poder Judicial que tienen su página acerca de información gubernamental, así como jurídica.
- 2. Cuando se crea un banco de datos. Almacenamient o de toda la jurisprudencia del año 2011 del poder judicial.
+Los padres y madres deben llevar a sus hijos e hijas a la escuela. La educación que el gobierno imparte es laica, es decir, alejada de cualquier doctrina religiosa. La educación que imparte el gobierno es gratuita.
 </td>
 <td>
-a) Infracción por primera vez. Amonestación por escrito 
-b) Infracción reincidente. Amonestación por escrito con advertencia de suspensión. 
-c) Infracción reincidente por 2da vez. Suspensión entre 2 y 5 días hábiles sin goce de sueldo. 
-d) Infracción reincidente por 3ta vez. Multa entre medio y 10 salarios mínimos 
-e) Infracción reincidente por 4ta vez. Multa entre 11 y 20 salarios mínimos 
-f) Infracción reincidente por 5ta vez. Multa entre 21 y 35 salarios mínimos.
- g) Infracción reincidente por 6ta vez. Multa entre 36 y 50 salarios mínimos/ o suspensión x 5 días sin goce de sueldo más multa establecida en inciso 
- h) Infracción reincidente por 7ta vez Suspensión por 10 días hábiles sin goce de sueldo más multa establecida para el inciso d). 
-i) Infracción con reincidencia mayor a las anteriores. Cancelación del infractor.
+●  Incumplir cualesquiera de las obligaciones previstas en el artículo 57.
+● Suspender el servicio educativo sin que medie motivo justificado, caso fortuito o fuerza mayor.
+Suspender clases en días y horas no autorizados por el calendario escolar aplicable, sin que medie motivo justificado, caso fortuito o fuerza mayor.
+● No utilizar los libros de texto que la Secretaría autorice y determine para la educación primaria y secundaria.
 </td>
     
   </tr>
