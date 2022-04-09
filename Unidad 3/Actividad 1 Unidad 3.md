@@ -92,7 +92,8 @@ La libertad de imprenta supone la facultad del individuo de publicar ideas, escr
 ● Las personas que secuestren una imprenta o cualquier aparato que sirva para la manifestación de las ideas, o lo destruyan o deterioren, sufrirán una pena de dos a seis años de prisión y una multa de mil a diez mil pesos.
 </td>
   </tr>
-  <tr style="width: 50%; ">Articulo 8
+  <tr>
+  <td style="width: 50%; ">Articulo 8</td>
   <td>Los funcionarios y empleados públicos respetarán el ejercicio del derecho de petición, siempre que ésta se formule por escrito, de manera pacífica y respetuosa; pero en materia política sólo podrán hacer uso de ese derecho los ciudadanos de la República.
 A toda petición deberá recaer un acuerdo escrito de la autoridad a quien se haya dirigido, la cual tiene obligación de hacerlo conocer en breve término al peticionario. 
 </td>
