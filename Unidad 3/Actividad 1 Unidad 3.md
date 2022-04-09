@@ -1,4 +1,4 @@
-# PORTADA []
+<p align="center"><img src="IMG/LOGOTIPO.png"/></p>
 <p align="center">
     <strong>Instituto Tecnológico de Tijuana Ingeniería Informática</strong>
 </p>
@@ -128,7 +128,6 @@ De lo anterior se debe destacar que solo la Constitución otorga facultades a lo
 </table>
 
             
-# Referencias
 <p>
     · Quispe Lema, J. (2017, 18 enero). LA INFORMÁTICA JURÍDICA METADOCUMENTAL
     Y METADECISIONAL. DERECHO INFORMÁTICO. Recuperado el 6 de abril de 2022, de
