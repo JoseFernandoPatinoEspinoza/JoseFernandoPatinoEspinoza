@@ -18,7 +18,7 @@
     <strong>Act 1</strong>
 </p>
 <p align="center">
-    <strong>Cuadro comparativo Unidad: 2 Profesora:</strong>
+    <strong>Cuadro comparativo Unidad: 3 Profesora:</strong>
 </p>
 <p align="center">
     <strong>Daniela Adriana S</strong>
@@ -44,7 +44,7 @@
     <strong></strong>
 </p>
 <p align="center">
-    <strong>Fecha de entrega: 06/04/2022</strong>
+    <strong>Fecha de entrega: 08/04/2022</strong>
 </p>
 # Actividad []
 <table style="width: 100%; text-align: center;">
@@ -87,7 +87,9 @@ La informática jurídica de gestión esta dirigida al control y la administraci
 ● DESICIONAL: Es la utilización de modelos predefinidos para la solución de casos específicos y concretos, como un admisorio de demanda, el rechazo de un recurso procesal extemporáneo, por ello esta parte de la rama de la informática jurídica de gestión es una parte de la actividad administrativa que lleva a acabo todo órgano judicial.
 </td>
 <td>
-● En el ámbito financiero, el artículo 112 Bis de la Ley de Instituciones de Crédito, dispone que se sancionará con prisión de tres a nueve años y de treinta mil a trescientos mil días multa, al que altere el medio de identificación electrónica y acceda a los equipos electromagnéticos del sistema bancario, con el propósito de disponer indebidamente de recursos económicos (fracción III); y a quien obtenga o use indebidamente la información sobre clientes u operaciones del sistema bancario, y sin contar con la autorización correspondiente (fracción IV)
+● Cuando se trate de transmisiones en vivo y la réplica ya se haya realizado;
+● Cuando no se ejerza en los plazos y términos previstos en esta Ley;
+● Cuando no se limite a la aclaración de los datos o información que aluden a la persona, que sea inexacta o falsa y cuya difusión le ocasione un agravio.
 </td>
   </tr>
   <tr>
