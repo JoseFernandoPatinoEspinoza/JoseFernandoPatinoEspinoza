@@ -18,10 +18,10 @@
     <strong>Act 1</strong>
 </p>
 <p align="center">
-    <strong>Cuadro comparativo Unidad: 3 Profesora:</strong>
+    <strong>Unidad: 4 </strong>
 </p>
 <p align="center">
-    <strong>Daniela Adriana S</strong>
+    <strong>Profesora: Daniela Adriana S</strong>
     <strong>á</strong>
     <strong>nchez Vizcarra</strong>
 </p>
@@ -44,5 +44,5 @@
     <strong></strong>
 </p>
 <p align="center">
-    <strong>Fecha de entrega: 08/04/2022</strong>
+    <strong>Fecha de entrega: 10/05/2022</strong>
 </p>
