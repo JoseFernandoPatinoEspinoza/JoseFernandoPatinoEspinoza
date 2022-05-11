@@ -138,3 +138,22 @@ Lista de países hostiles de Rusia:
 ● Singapur
 ● Taiwan
 </p>
+<p>
+Referencias
+
+Enlace 1: https://elpais.com/internacional/2017/05/31/actualidad/1496241283_691973.html 
+
+Enlace 2: https://www.marval.com/publicacion/china-aprueba-una-nueva-ley-de-proteccion-de-datos-personales-14081#:~:text=El%2020%20de%20agosto%20de,1%20de%20noviembre%20de%202021.
+
+Enlace 3: https://revistageon.unillanos.edu.co/index.php/geon/article/view/87/165
+
+Enlace 4: https://www.wipo.int/news/es/wipolex/2020/article_0019.html
+
+Enlace 5: https://contralinea.com.mx/redes-criminales-controlan-pirateria-en-mexico/
+
+Enlace 6: https://expansion.mx/economia/2022/04/20/economia-impi-descuento-registro-marca-mipymes 
+
+
+
+
+</p>
