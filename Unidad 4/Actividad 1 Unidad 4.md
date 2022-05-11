@@ -46,7 +46,7 @@
 <p align="center">
     <strong>Fecha de entrega: 10/05/2022</strong>
 </p>
-<h1>
+<p>
 Normatividad
 China 94% de pirateria:
 Ley de ciberseguridad en China
@@ -137,4 +137,4 @@ Lista de países hostiles de Rusia:
 ● Corea del sur
 ● Singapur
 ● Taiwan
-</h1>
+</p>
