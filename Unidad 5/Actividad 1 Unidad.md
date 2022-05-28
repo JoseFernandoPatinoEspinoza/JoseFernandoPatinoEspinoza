@@ -55,17 +55,29 @@
     <td style="width: 50%; ">Contrat de compra y venta de Hardware</td>
     <td style="width: 50%; ">
 •	Definiciones.
+
 •	Objeto.
+
 •	Duración.
+
 •	Precio y forma de pago.
+
 •	Comunicaciones entre las partes.
+
 •	Confidencialidad.
+
 •	Resolución del contrato.
+
 •	Derechos y obligaciones de las partes.
+
 •	Responsabilidades de las partes.
+
 •	Ley aplicable y tribunales competentes.
+
 •	Saneamiento y garantía.
+
 •	Especificaciones técnicas de los equipos informáticos.
+
 •	Responsabilidad por producto defectuoso.
     </td>
 
@@ -76,9 +88,13 @@
     <td style="width: 50%; ">Contrato de arrendamiento de Hardware</td>
     <td style="width: 50%; ">
 •	Estado de equipo
+
 •	Especificaciones del equipo
+
 •	Valor del equipo
+
 •	Datos del arrendador
+
 •	Datos del arrendamiento
     </td>
 
@@ -87,10 +103,15 @@
     <td style="width: 50%; ">Contrato de mantenimiento de Hardware</td>
     <td stylr="width: 50%; ">
     Identificar los tipos de contratos de mantenimiento informático:
+
 •	Contrato de Mantenimiento Informático Correctivo.
+
 •	Contrato de Mantenimiento Informático Preventivo.
+
 •	Compromiso y garantía.
+
 •	Revisión.
+
 •	Costo, facturación y duración del contrato
     </td>
     </tr>
@@ -98,7 +119,9 @@
 <td td stylr="width: 50%; ">Contrato de leasing de hardware</td>
 <td td stylr="width: 50%; ">
 •	Compra del equipo informático a través de leasing al modelo de financiación por renting tecnológico.
+
 •	El leasing permite la opción a comprar los equipos.
+
 •	La tramitación del contrato es ágil  y además la PYME adquiere el título de propiedad del equipamiento informático.
 </td>
     </tr>
