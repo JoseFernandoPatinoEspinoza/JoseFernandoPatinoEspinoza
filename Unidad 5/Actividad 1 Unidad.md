@@ -52,8 +52,22 @@
     <td style="width: 50%;">Contenido del contrato</td>
   </tr>
   <tr>
-    <td style="width: 50%; ">Normas Juridicas</td>
-    <td style="width: 50%; "> </td>
+    <td style="width: 50%; ">Contrat de compra y venta de Hardware</td>
+    <td style="width: 50%; ">
+	Definiciones.
+	Objeto.
+	Duración.
+	Precio y forma de pago.
+	Comunicaciones entre las partes.
+	Confidencialidad.
+	Resolución del contrato.
+	Derechos y obligaciones de las partes.
+	Responsabilidades de las partes.
+	Ley aplicable y tribunales competentes.
+	Saneamiento y garantía.
+	Especificaciones técnicas de los equipos informáticos.
+	Responsabilidad por producto defectuoso.
+    </td>
 <td>
 </td>
 <td></td>
@@ -61,8 +75,6 @@
   </tr>
   <tr>
     <td style="width: 50%; ">Normas Morales</td>
-    <td></td>
-<td></td>
   </tr>
   <tr>
 
