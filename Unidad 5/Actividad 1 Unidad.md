@@ -68,13 +68,13 @@
 	Especificaciones técnicas de los equipos informáticos.
 	Responsabilidad por producto defectuoso.
     </td>
-<td>
-</td>
-<td></td>
+
+
     
   </tr>
   <tr>
     <td style="width: 50%; ">Normas Morales</td>
+
   </tr>
   <tr>
 
