@@ -63,6 +63,8 @@ Después de que se logra infectar el equipo a través de los formularios, el mal
 </p>
 <p>
 Referencias
+    </p>
+        <p>
 Garduño, M. (2021, 2 agosto). Conoce cómo blindarte del malware Janeleiro que llegó a México. Forbes México.
 Recuperado 31 de mayo de 2022, de https://www.forbes.com.mx/tecnologia-conoce-como-blindarte-malware-janeleiro-llego-mexico/?fbclid=IwAR0HJLh_s31yclimReuDTiYiDjpHxWsMdZZMQKfNHC5--ZTQmonln2CtDUY
 Metabase Q - Informe sobre amenaza Janeleiro.mx. (s. f.). .
